@@ -1,3 +1,4 @@
+<h4>for any problems, please leave comments under this project. For CMU-Algorithsm students, please keep your questions untils Saturday and I will answer them if we have time after BaiYang's speech</h3>
 # OOD_ParkingLot
 <div>
 Multiple Thread verison for Parking Lot. Car is thread class. Shared values are the enterQue and quitQue which are instances of BlockingQueue.
